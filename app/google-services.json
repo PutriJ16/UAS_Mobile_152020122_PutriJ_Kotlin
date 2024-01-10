@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "855068344470",
+    "firebase_url": "https://uasproject-c1a7a-default-rtdb.firebaseio.com",
+    "project_id": "uasproject-c1a7a",
+    "storage_bucket": "uasproject-c1a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855068344470:android:ab30cc8198ae5d55a3c2b7",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3t0uyWA4KimNBxmqlOdkoWrr8-wqUnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855068344470:android:f08ec33feeb80c55a3c2b7",
+        "android_client_info": {
+          "package_name": "com.example.uasproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3t0uyWA4KimNBxmqlOdkoWrr8-wqUnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
